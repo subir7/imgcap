@@ -8,3 +8,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 caption_models/merged_caption_data_with_pca.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+*.py filter=lfs diff=lfs merge=lfs -text
